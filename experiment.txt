@@ -1,1 +1,2 @@
 I'm creating a new file and commiting it.
+Here i'm trying to create and new branch and try to merge it later.
