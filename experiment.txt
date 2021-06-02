@@ -1,2 +1,13 @@
 I'm creating a new file and commiting it.
+
+
+
 Here i'm trying to create and new branch and try to merge it later.
+
+
+
+I'm writing this line after successfully merging it.
+I first created a branch and after that when i went back to code space and there i could see that a new branch has been created and it's asking me to create a pull
+request and merge the branch.
+after that it is checking if the file is comaparable and it's asking to commit and confirm the merge.
+After I confirm it ,and redirected back to code,and when the opened experiment I could see the merge sentence at line no.5
