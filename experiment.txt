@@ -15,3 +15,6 @@ After I confirm it ,and redirected back to code,and when the opened experiment I
 
 
 OK,So from what i have seen, if  want to contribute to someone else's project all I have to do is just fork their project(as i cannot edit directly) and create new file and make a pull request.This request goes to the owner of the project and that is how they can review and merge.
+
+
+ANd also the person who sends a pull request in their repository can see the file they have created along with the other files they have forked from the project they wanted to contribute to.
