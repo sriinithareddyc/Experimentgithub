@@ -18,3 +18,6 @@ OK,So from what i have seen, if  want to contribute to someone else's project al
 
 
 ANd also the person who sends a pull request in their repository can see the file they have created along with the other files they have forked from the project they wanted to contribute to.
+
+
+Now once your pull request has been merged in the project you wanted to contribute to,then whenever someone opens the project you contributed to in that your name will be visible on the file that has been merged.(the file for which you have created a pull request)
